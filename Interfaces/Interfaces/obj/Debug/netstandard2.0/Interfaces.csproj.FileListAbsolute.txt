@@ -1,0 +1,7 @@
+C:\Users\carlos.giachetti\Documents\CEG\Knowledge\DotNET\Reflection\Interfaces\Interfaces\bin\Debug\netstandard2.0\Interfaces.deps.json
+C:\Users\carlos.giachetti\Documents\CEG\Knowledge\DotNET\Reflection\Interfaces\Interfaces\bin\Debug\netstandard2.0\Interfaces.dll
+C:\Users\carlos.giachetti\Documents\CEG\Knowledge\DotNET\Reflection\Interfaces\Interfaces\bin\Debug\netstandard2.0\Interfaces.pdb
+C:\Users\carlos.giachetti\Documents\CEG\Knowledge\DotNET\Reflection\Interfaces\Interfaces\obj\Debug\netstandard2.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\carlos.giachetti\Documents\CEG\Knowledge\DotNET\Reflection\Interfaces\Interfaces\obj\Debug\netstandard2.0\Interfaces.AssemblyInfo.cs
+C:\Users\carlos.giachetti\Documents\CEG\Knowledge\DotNET\Reflection\Interfaces\Interfaces\obj\Debug\netstandard2.0\Interfaces.dll
+C:\Users\carlos.giachetti\Documents\CEG\Knowledge\DotNET\Reflection\Interfaces\Interfaces\obj\Debug\netstandard2.0\Interfaces.pdb
